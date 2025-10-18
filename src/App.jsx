@@ -9,10 +9,10 @@ import { motion, AnimatePresence } from "framer-motion";
 // ------------------------------------------------------------
 
 const AVATARS = [
-  { id: "leo",  name: "Léo Descolado", emoji: "🛹", tagline: "Mano, tu tá voando!" },
-  { id: "caio", name: "Caio Nerd",     emoji: "🤓", tagline: "Excelência detectada!" },
-  { id: "luna", name: "Luna Criativa",  emoji: "🎨", tagline: "Pintou acerto!" },
-  { id: "bia",  name: "Bia Determinada",emoji: "🏃‍♀️", tagline: "Foco e força!" },
+  { id: "Zé",  name: "Zé Descolado", emoji: "🛹", tagline: "Mano, tu tá voando!" },
+  { id: "Kako", name: "Kako Nerd",     emoji: "🤓", tagline: "Excelência detectada!" },
+  { id: "Luna", name: "Luna Criativa",  emoji: "🎨", tagline: "Pintou acerto!" },
+  { id: "Bia",  name: "Bia Determinada",emoji: "🏃‍♀️", tagline: "Foco e força!" },
 ];
 
 // --- SFX (sons) -------------------------------------------------
